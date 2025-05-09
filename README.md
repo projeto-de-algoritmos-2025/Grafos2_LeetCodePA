@@ -1,30 +1,17 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos2_LeetCodePA
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2015868 |  Alexandre Lema Xavier Júnior |
+| 21/1039671  |  Pedro Lopes da Cunha |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de questões do LeetCode (2 difíceis e uma média) pelos integrantes do grupo com o objetivo de demonstrar o conhecimento adquirido nesse módulo (Grafos 2) da disciplina.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
