@@ -22,6 +22,12 @@ Implementei o algoritmo de Dijkstra para encontrar o caminho de menor custo em u
 
 ![Print da Resolução 1368](/assets/img1368.jpg)
 
+### [1584 - Médio](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+
+O problema pede para conectar todos os pontos de um plano 2D com o menor custo total possível, onde o custo de conectar dois pontos é a distância de Manhattan entre eles. Para resolver, utilizei o algoritmo de Prim, para construir uma árvore mínima de conexões, conectar todos os pontos sem formar ciclos e com o menor custo. Comecei escolhendo um ponto qualquer, usei uma fila de prioridade (min-heap), conectei os nós um por um, sempre escolhendo o mais próximo com menor custo e calculando a distância dele com todos os pontos ainda não conectados e atualizando a fila com essas novas possibilidades. O algoritmo continua até que todos os pontos estejam conectados, retornando o custo total dessas conexões. 
+
+![Print da Resolução 1584](/assets/1584.jpg)
+
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
