@@ -38,16 +38,6 @@ https://github.com/user-attachments/assets/c49d6011-63b8-4b29-8b7d-2087f1c2cbd2
 
 ![Print da Resolução 2290](/assets/2290.jpg)
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
