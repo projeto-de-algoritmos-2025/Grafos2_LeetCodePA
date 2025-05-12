@@ -1,5 +1,5 @@
 ##Resolução da questão 1586 : Min Cost to Connect All Points
-#Nivel dificil.
+#Nivel medio.
 
 from typing import List
 import heapq
