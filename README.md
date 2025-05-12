@@ -28,13 +28,13 @@ O problema pede para conectar todos os pontos de um plano 2D com o menor custo t
 
 https://github.com/user-attachments/assets/298600a7-7e2e-453f-8b46-0f8db534cdfa
 
-
-
 ![Print da Resolução 1584](/assets/1584.jpg)
 
 ## [2290 - Dificil](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
 
 O problema consiste em encontrar o menor número de obstáculos que precisam ser removidos para que seja possível se mover da célula (0, 0) até (m-1, n-1) em uma grade 2D onde: 0 representa uma célula livre (pode andar sem custo), 1 representa um obstáculo (precisa ser "removido" com custo 1 para passar). Para resolver esse problema, foi utilizado o algoritmo de Dijkstra, ideal para encontrar o caminho mais curto em um grafo ponderado com valores não negativos. Cada célula da grade é convertida em um nó de um grafo, conectado aos vizinhos da direita e de baixo, o valor da célula (0 ou 1) representa o custo para entrar nela (livre ou precisa remover obstáculo), o algoritmo percorre os caminhos com menor custo acumulado primeiro, somando os obstáculos removidos, ao chegar na última célula, o custo acumulado representa o número mínimo de obstáculos a remover.
+
+https://github.com/user-attachments/assets/c49d6011-63b8-4b29-8b7d-2087f1c2cbd2
 
 ![Print da Resolução 2290](/assets/2290.jpg)
 
