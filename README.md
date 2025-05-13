@@ -19,9 +19,9 @@ Resolução de questões do LeetCode (2 difíceis e uma média) pelos integrante
 
 Implementei o algoritmo de Dijkstra para encontrar o caminho de menor custo em um grafo direcionado e ponderado, modelado a partir de uma grade 2D onde cada célula representa um nó. Cada aresta conecta uma célula à sua vizinha de acordo com a direção indicada, com custo 0 se a direção for seguida corretamente ou custo 1 caso seja necessário alterar a seta. Utilize uma fila de prioridade para explorar primeiro os caminhos de menor custo, atualizando os menores valores de custo para alcançar cada célula. Ao final, retornei o menor custo necessário para alcançar a célula destino no canto inferior direito da grade.
 
-![Print da Resolução 1368](/assets/img1368.jpg)
-
 https://github.com/user-attachments/assets/89318cdf-0bde-4c27-a729-b20abc90f4cb
+
+![Print da Resolução 1368](/assets/img1368.jpg)
 
 ### [1584 - Médio](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
