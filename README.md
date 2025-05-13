@@ -40,6 +40,8 @@ https://github.com/user-attachments/assets/c49d6011-63b8-4b29-8b7d-2087f1c2cbd2
 
 ![Print da Resolução 2290](/assets/2290.jpg)
 
+## Instalação 
+**Linguagem**: Python<br>
 
 
 
